@@ -6,7 +6,7 @@
 
 # Github pages.
 
- https://kldmitry.github.io/russian-travel-main-Finish/
+ https://kldmitry.github.io/russian-travel/
 
 ## Стек
 
