@@ -27,7 +27,7 @@ The adaptive single page website, developed with a Figma prototype.
 
 # Github pages.
 
- https://kldmitry.github.io/russian-travel-main-Finish/
+ https://kldmitry.github.io/russian-travel/
 
 ## Stack
 
